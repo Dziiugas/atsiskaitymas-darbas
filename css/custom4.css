@@ -169,3 +169,81 @@ a {
     line-height: 56px;
     letter-spacing: -1.44px;
 }
+.proc {
+    width: 400px;
+    padding: 48px;
+    border-radius: 64px;
+    background: var(--osler-gray-white, #FFF); 
+    box-shadow: 0px 8px 16px 0px rgba(47, 60, 51, 0.05); 
+}
+.proc h3{
+    font-family: Nunito;
+    font-size: 62px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 80px;
+    letter-spacing: -2.16px;
+}
+.proc p {
+    font-family: Nunito;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: -0.72px;
+    color: var(--osler-gray-80, #2F3C33);
+}
+.pres h3{
+    font-family: Nunito;
+    font-size: 62px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 80px;
+    letter-spacing: -2.16px;
+    color: "M" green;
+}
+.pres {
+    width: 400px;
+    padding: 46px;
+    border-radius: 64px;
+    background: var(--osler-gray-white, #FFF); 
+    box-shadow: 0px 8px 16px 0px rgba(47, 60, 51, 0.05); 
+}
+.pres p {
+    font-family: Nunito;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: -0.72px;
+    color: var(--osler-gray-80, #2F3C33);
+}
+.docs h3{
+    font-family: Nunito;
+    font-size: 62px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 80px;
+    letter-spacing: -2.16px;
+}
+.docs {
+    width: 400px;
+    padding: 46px;
+    border-radius: 64px;
+    background: var(--osler-gray-white, #FFF); 
+    box-shadow: 0px 8px 16px 0px rgba(47, 60, 51, 0.05); 
+}
+.docs p {
+    font-family: Nunito;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: -0.72px;
+    color: var(--osler-gray-80, #2F3C33);
+}
+.services {
+    padding: 128px 236px;
+    border-radius: 180px;
+    background: var(--osler-gray-10, #F5F5F5); 
+}
